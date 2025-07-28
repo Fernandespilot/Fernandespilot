@@ -55,7 +55,7 @@
   <img src="https://i.makeagif.com/media/8-03-2015/og9Ko6.gif" width="300">
 </div>
 
-🔒 Sou apaixonado por explorar o mundo da **criptografia quântica** e da **segurança de dados**. Sempre em busca de novas formas de proteger informações e desenvolver sistemas robustos para o futuro da tecnologia.
+🔐 Entusiasta de Segurança da Informação, com sólida base em LGPD, criptografia aplicada, pentest e cibersegurança ofensiva e defensiva. Tenho profundo interesse por temas como criptografia quântica, anonimato digital e resiliência de sistemas. Busco constantemente formas de desenvolver soluções seguras, escaláveis e alinhadas às exigências legais e tecnológicas do futuro, contribuindo para um ecossistema digital mais confiável.
 
 ---
 
