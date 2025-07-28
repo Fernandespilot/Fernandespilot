@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://camo.githubusercontent.com/24008d08e9f13b125c98895e809490f440964e712119b9847d1892d234b7c4a8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d62726173696c656475267468656d653d7261646963616c]()" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandespilot&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
