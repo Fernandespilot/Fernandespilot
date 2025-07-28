@@ -63,7 +63,7 @@
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fernandespilot&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandespilot&layout=compact&theme=radical&langs_count=10" alt="Linguagens mais usadas" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandespilot&layout=compact&theme=radical&langs_count=10" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
