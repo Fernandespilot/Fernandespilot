@@ -78,6 +78,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Fernandespilot&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+
 ### 🎖️ Principais Badges
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fernandespilot&show_icons=true&theme=radical&show_badges=true" alt="GitHub Badges" />
