@@ -102,7 +102,12 @@
   <a href="https://github.com/Mafe519/QualiSoja.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mafe519&repo=QualiSoja&theme=radical" />
   </a>
-</div>
+  <a href="[https://github.com/Fernandespilot/CriptografiaRSA.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandespilot&repo=CriptografiaRSA&theme=radical" />
+  </a>
+  <a href="[https://github.com/Fernandespilot/RLC_COM_IA.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandespilot&repo=RLC_COM_IA&theme=radical" />
+  </a>
 
 ---
 
