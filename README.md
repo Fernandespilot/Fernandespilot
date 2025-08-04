@@ -104,7 +104,7 @@
 ## 🌟 Projetos em Destaque
 
 <div align="center">
-  <a href="[https://github.com/brasiledu/Compiladores---2025-1.git">
+  <a href="[https://github.com/Fernandespilot/compiladores-py.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandespilot&repo=Compiladores---2025-1&theme=radical" />
   </a>
   <a href="https://github.com/Mafe519/QualiSoja.git">
